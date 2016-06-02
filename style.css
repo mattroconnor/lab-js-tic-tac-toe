@@ -37,7 +37,7 @@ tfoot tr td{
   border-bottom: none;
 }
 
-.container, .playerTurn {
+.container, h1, h2 {
   text-align: center;
 }
 
@@ -52,4 +52,8 @@ tfoot tr td{
 #reset:hover{
   background: #b8bdee;
   border-color: white;
+}
+
+img{
+  max-height: 50%;
 }
