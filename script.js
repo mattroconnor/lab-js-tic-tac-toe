@@ -17,7 +17,7 @@ Turn progression:
       3.1.1b If no winner increase the turn counter
 */
 
-var init = function(){
+// var init = function(){
   // BEGIN game initialization and global variables
     var audio = new Audio("GoT.mp3") ;
     audio.play();
@@ -157,4 +157,4 @@ var init = function(){
       return false;
     };
   // END standalone functions
-};
+// };
